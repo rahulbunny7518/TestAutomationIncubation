@@ -1,0 +1,4 @@
+Mar 14, 2024 4:28:46 PM module2_coreJava.Task07_3 calculateTicket
+WARNING: speed between 61 and 80 - Small ticket issued
+Mar 14, 2024 4:28:46 PM module2_coreJava.Task07_3 main
+INFO: Ticket : 1

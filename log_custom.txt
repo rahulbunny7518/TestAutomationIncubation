@@ -1,0 +1,2 @@
+Thu Mar 14 16:30:49 IST 2024 WARNING: speed between 61 and 80 - Small ticket issued
+Thu Mar 14 16:30:49 IST 2024 INFO: Ticket : 1
