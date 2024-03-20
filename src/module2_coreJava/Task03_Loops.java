@@ -19,8 +19,7 @@ public class Task03_Loops {
 		System.out.println();
 		pyramidGenerationWithDoWhileLoop(numberOfRows, increment);
 		
-		
-		
+		scanner.close();
 	}
 	
 	private static void pyramidGenerartionWithForLoop(int numberOfRows, int increment) {

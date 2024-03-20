@@ -24,5 +24,7 @@ public class Task05_1_Ticket {
         } else {
             System.out.println(2+ "  big ticket");
         }
+        
+        scanner.close();
 	}
 }
